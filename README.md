@@ -1,4 +1,4 @@
-# Android Roboelectric Testing
+# Android Testing
 
 Android Testing with all Roboelectric Dependencies installed and configured in build.gradle file. Clone it to your machine and immediately start testing. Saves you the time and effort of setting up everything again from scratch. 
 
